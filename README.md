@@ -13,7 +13,7 @@ Zak_Ahmed = {
 
 <div align="center">
   <p align="left" style="margin: 0 10px; flex: 1;">
-    I have a Bachelor's degree in Computer Science from Royal Holloway University of London and am currently a Data Engineering member for the AiCore Industry. I am interested in all aspects of software engineering, with a particular focus in team projects as I leverage the techniques gained from my BP work experience to solve problems.
+    I have a Bachelor's degree in Computer Science from Royal Holloway University of London and am currently learning to be a Data Engineer in the AiCore Industry. I am interested in all aspects of software engineering, with a particular focus in team projects as I leverage the techniques gained from my BP work experience to solve problems.
   </p>
   <img src="https://25.media.tumblr.com/8af82c2c25716260bc27e5c6e6e81307/tumblr_mtlvnfYN4C1r8tyjfo1_r1_500.gif" width="200" height="200" alt="Image" align="right">
 </div>
